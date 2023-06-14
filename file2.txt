@@ -1,0 +1,2 @@
+name = "Senzia"
+print ("Hello World!" + name)
